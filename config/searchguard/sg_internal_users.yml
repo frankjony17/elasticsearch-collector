@@ -1,0 +1,19 @@
+elastic:
+  hash: $2y$12$DD/qReqbobc9npaecsHf.OpQ9slyT4Luth3dTaVKUgFoRZgb9NsAu #elastic
+  roles:
+    - admin
+
+kibana:
+  hash: $2y$12$DD/qReqbobc9npaecsHf.OpQ9slyT4Luth3dTaVKUgFoRZgb9NsAu #kibana
+  roles:
+    - kibana_user
+
+logstash:
+  hash: $2y$12$DD/qReqbobc9npaecsHf.OpQ9slyT4Luth3dTaVKUgFoRZgb9NsAu #logstash
+  roles:
+    - logstash_user
+
+beats:
+  hash: $2y$12$DD/qReqbobc9npaecsHf.OpQ9slyT4Luth3dTaVKUgFoRZgb9NsAu #beats
+  roles:
+    - beats_user

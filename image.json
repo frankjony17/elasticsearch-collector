@@ -1,0 +1,6 @@
+{
+    "_comentario":"Configure as propriedades tag e imageType (que pode ser 'apps', 'base' ou 'infra'). O repositório nao deve ser prefixado com atf.solutions.fks.com.br",
+    "repository":"fks/elasticsearch-collector",
+    "tag":"1.0.0-beta.14",
+    "imageType":"apps"
+}
